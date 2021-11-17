@@ -3,7 +3,7 @@
     "stake_currency": "BUSD",
     "stake_amount": "unlimited",
     "tradable_balance_ratio": 0.99,
-    "fiat_display_currency": "GBP",
+    "fiat_display_currency": "EUR",
     "timeframe": "5m",
     "dry_run": false,
     "cancel_open_orders_on_exit": false,
